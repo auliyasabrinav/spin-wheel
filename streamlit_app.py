@@ -6,7 +6,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🎉 SPIN WHEEL DOORPRIZE")
+st.title("🎉 SPIN WHEELaa DOORPRIZE")
 
 st.markdown("---")
 
